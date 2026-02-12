@@ -142,7 +142,8 @@ You can extend this project by adding:
 
 **Aviral Goyal**  
 Aspiring Data Analyst | Power BI Developer  
-LinkedIn: [ _Your LinkedIn URL here_](https://www.linkedin.com/in/avviiiral/)
+
+🔗 LinkedIn: [Aviral Goyal](https://www.linkedin.com/in/avviiiral/)
 
 ---
 
