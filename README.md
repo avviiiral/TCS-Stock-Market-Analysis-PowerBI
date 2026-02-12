@@ -30,10 +30,12 @@ TCS-Stock-Market-Analysis-PowerBI/
 !Screenshot/Detailed Stock Table View.png
 
 ### 📊 Trend Analysis View  
-![Trend Dashboard](Screenshot%202026-02-12%20111802.png)
+![Trend Dashboard](Detailed Stock Table View.png)
 
 ### 📋 Detailed Table View  
-![Stock Table](Screenshot%202026-02-12%20111820.png)
+
+![Stock Table](Screenshot/detailed-stock-table-view.png)
+
 
 ---
 
