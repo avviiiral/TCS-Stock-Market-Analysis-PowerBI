@@ -24,18 +24,16 @@ TCS-Stock-Market-Analysis-PowerBI/
 
 ---
 
-## 📸 Dashboard Preview
+### 📷 Dashboard Preview
 
-### 📈 Main Dashboard View  
-!Screenshot/Detailed Stock Table View.png
+#### 📊 Main Dashboard View
+![Main Dashboard](Screenshot/Main%20Dashboard%20View.png)
 
-### 📊 Trend Analysis View  
-![Trend Dashboard](Detailed Stock Table View.png)
+#### 📈 Trend Analysis View
+![Trend Analysis](Screenshot/Trend%20Analysis%20View.png)
 
-### 📋 Detailed Table View  
-
-![Stock Table](Screenshot/detailed-stock-table-view.png.png)
-
+#### 📋 Detailed Table View
+![Detailed Table](Screenshot/Detailed%20Stock%20Table%20View.png)
 
 ---
 
