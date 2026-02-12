@@ -34,7 +34,7 @@ TCS-Stock-Market-Analysis-PowerBI/
 
 ### 📋 Detailed Table View  
 
-![Stock Table](Screenshot/detailed-stock-table-view.png)
+![Stock Table](Screenshot/detailed-stock-table-view.png.png)
 
 
 ---
